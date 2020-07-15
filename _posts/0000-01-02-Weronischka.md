@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our secondy slide!"
 ---
-Your text
+<h1>wohoo</h1>
 Use the left arrow to go back!
